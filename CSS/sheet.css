@@ -1,0 +1,10 @@
+nav{
+    background-color: rgb(70, 70, 70);
+}
+.nav-icon{
+    size: 10%;
+}
+a{
+    color: greenyellow;
+    text-decoration: none;
+}
